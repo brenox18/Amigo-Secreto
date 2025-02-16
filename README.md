@@ -29,6 +29,3 @@ O projeto é composto pelos seguintes arquivos:
 - **O botão de adicionar não funciona**: Verifique se o arquivo `app.js` está corretamente referenciado no `index.html`.
 - **O sorteio não acontece**: Certifique-se de ter adicionado pelo menos dois amigos antes de clicar no botão de sorteio.
 
-## 📜 Licença
-Este projeto está sob a licença MIT. Sinta-se livre para usá-lo e modificá-lo! 🚀
-
